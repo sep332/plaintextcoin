@@ -4,7 +4,7 @@ Plaintextcoin is a revolutionary digital currency utilizing a plaintext blockcha
 
 ## Mining
 
-Add your identifier and balance to blockchain.txt.
+Add your identity and balance to blockchain.txt.
 
 ### Example
 
