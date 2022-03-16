@@ -1,5 +1,19 @@
 # plaintextcoin
+
 Plaintextcoin is a revolutionary digital currency utilizing a plaintext blockchain, the first plaintextcurrency
+
+## Mining
+
+Add your identifier and balance to blockchain.txt.
+
+### Example
+
+**blockchain.txt**
+
+```diff
+andrewmcwatters 1
++ example 2
+```
 
 ## License
 
