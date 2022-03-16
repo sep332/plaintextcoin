@@ -15,6 +15,21 @@ andrewmcwatters 1
 + example 2
 ```
 
+## Transacting
+
+Send 1 plaintextcoin (`1 text/plain`) to another identifier.
+
+### Example
+
+**blockchain.txt**
+
+```diff
+- andrewmcwatters 1
++ andrewmcwatters 2
+- example 2
++ example 1
+```
+
 ## License
 
 MIT License
